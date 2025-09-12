@@ -3,7 +3,6 @@
 ### screenshots of Project 
 
 # Login Page 
-<img src="screenshots/Login Page.png"alt="login page"width="400"/>
 
 # student attendance dashboard
 
