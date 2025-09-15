@@ -15,7 +15,7 @@ class AddSubject(QWidget):
 
         ##lables  and inputs for subject id
 
-        self.subject_id_label = QLabel("Subject ID")
+        self.subject_id_label = QLabel("Subject ID")  
         self.subject_id_input = QLineEdit()
         self.subject_id_input.setPlaceholderText("Enter Subject ID")
 
